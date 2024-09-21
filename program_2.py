@@ -15,7 +15,7 @@ elif age > 1 and age < 13:
 #If person is greater than 12 but less than 20, display "teenager."
 elif age > 13 and age < 20:
     print('teenager')
-#If person is greater than or equal to 20, display "adult."
+#If person is greater than 20 but less than 125, display "adult."
 elif age >= 20 and age < 125:
     print('adult')
 #If other, display "You are Dead."
